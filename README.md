@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# TP React – Navigation, Rendu Conditionnel et Listes Dynamiques
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objectif du TP
+Ce TP permet de mettre en pratique les concepts suivants :  
 
-## Available Scripts
+- La navigation interne avec **React Router**  
+- Le rendu conditionnel avec **useState** et opérateurs ternaires/logiques  
+- L’itération sur des tableaux avec **map()**  
+- L’intégration d’images, de médias (audio) et de **styles CSS**  
+- La création de composants réutilisables et de pages multi-vues  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Structure du projet
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="201" height="407" alt="image" src="https://github.com/user-attachments/assets/0662fafe-8f50-4d0e-a217-5e9fa0259159" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation et lancement
 
-### `npm test`
+<img width="1916" height="1006" alt="Capture d&#39;écran 2026-03-23 082909" src="https://github.com/user-attachments/assets/0c003490-bc80-4db9-b908-937fa01a9905" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Pages et fonctionnalités
 
-### `npm run build`
+### 1. Accueil (home.js)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1919" height="1004" alt="Capture d&#39;écran 2026-03-23 095241" src="https://github.com/user-attachments/assets/40424b2d-539e-4dd5-b98a-e1891b590a14" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 2. À propos (About.js)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1919" height="1007" alt="Capture d&#39;écran 2026-03-23 095257" src="https://github.com/user-attachments/assets/33496c7d-175f-4502-b971-6beada65a634" />
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ ### 3. Contact (Exercice 4 )
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ <img width="1676" height="815" alt="Capture d&#39;écran 2026-03-23 100555" src="https://github.com/user-attachments/assets/dd00e9df-eaba-4048-9688-8e9241c5b605" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ ### 4. Connexion (Connexion.js)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ <img width="1919" height="1007" alt="Capture d&#39;écran 2026-03-23 095257" src="https://github.com/user-attachments/assets/162c74d7-aba9-48b7-98e0-9259d9f001e1" />
 
-## Learn More
+<img width="1919" height="1006" alt="Capture d&#39;écran 2026-03-23 095323" src="https://github.com/user-attachments/assets/2081d5ab-59c1-47d9-8ec6-0ca938bce427" />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 5. Listes dynamiques (Exercice 2)
+<img width="1658" height="1012" alt="Capture d&#39;écran 2026-03-23 095912" src="https://github.com/user-attachments/assets/70488d5f-ff85-4b0f-97f5-7190e2c89e1e" />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 6. Notifications (Exercice 1)
 
-### Code Splitting
+<img width="1560" height="1004" alt="Capture d&#39;écran 2026-03-23 095556" src="https://github.com/user-attachments/assets/8651d898-1c27-4b92-99e9-f0dadd5b0ddd" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 7. Galerie (Exercice 3)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1288" height="1009" alt="Capture d&#39;écran 2026-03-23 100150" src="https://github.com/user-attachments/assets/2b1ce2dd-3562-454f-84ec-d60c655e1cc9" />
